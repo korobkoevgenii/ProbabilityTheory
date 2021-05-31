@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(307,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(325,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(326,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(331,17): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(391,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(588,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(601,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(612,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\forbe\source\repos\labTerVer\labTerVer\MyForm.h(618,22): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  labTerVer.vcxproj -> C:\Users\forbe\source\repos\labTerVer\Debug\labTerVer.exe
